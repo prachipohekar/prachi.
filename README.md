@@ -1,7 +1,5 @@
 # prachi.
-this is my first repository.
-<br>
-author - prachi pohekar.
-<br>
+this is my first repository.<<endl;
+author - prachi pohekar.<<endl;
 Electronics and Telecommunication engineer.
 
