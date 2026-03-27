@@ -1,5 +1,5 @@
 # prachi.
-this is my first repository.<<endl;
-author - prachi pohekar.<<endl;
-Electronics and Telecommunication engineer.
+"\n this is my first repository."
+"\n author - prachi pohekar."
+"\n Electronics and Telecommunication engineer."
 
